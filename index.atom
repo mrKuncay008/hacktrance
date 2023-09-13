@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
+	<title type="text">My site - Articles</title>
+	<subtitle type="text">My site slogan</subtitle>
+	<link rel="self" href="http://10.1.2.133/demo/index.php?atom=1&amp;section=articles" />
+	<link rel="alternate" type="text/html" href="http://10.1.2.133/demo/" />
+	<id>tag:10.1.2.133,2005:84e31157c9858d3c7fa480a3547fd14a/articles</id>
+	<generator uri="https://textpattern.com/" version="4.8.7">Textpattern</generator>
+	<updated>2021-11-02T07:48:11Z</updated>
+	<author>
+		<name>admusr</name>
+		
+		<uri>http://10.1.2.133/demo/</uri>
+	</author>
+	
+	<entry>
+		<author>
+			<name>author</name>
+		</author>
+		<published>2021-11-02T07:48:00Z</published>
+		<updated>2021-11-02T07:48:01Z</updated>
+		<title type="html">Welcome to Terra Vision Project</title>
+		<link rel="alternate" type="text/html" href="http://10.1.2.133/demo/index.php?id=2" />
+		<id>tag:10.1.2.133,2021-11-02:84e31157c9858d3c7fa480a3547fd14a/89894160ad96a54ead5d56617ca8dd42</id>
+		
+		
+		<summary type="html"><![CDATA[<p>If everything can be answered today, why is there research?</p>]]></summary>
+	</entry>
+</feed>
+<!-- Trace summary:
+Runtime   : 12.47 ms
+Query time: 7.51 ms
+Queries   : 7
+Memory (*): 603 kB
+-->

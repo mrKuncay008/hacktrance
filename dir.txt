@@ -1,0 +1,3 @@
+DIRECTORY: http://10.1.2.133/demo/files/
+DIRECTORY: http://10.1.2.133/demo/images/
+DIRECTORY: http://10.1.2.133/demo/textpattern/
